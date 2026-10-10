@@ -62,6 +62,7 @@
 (*&*)com.cn
 
 # AcgnX
+(@&!)share.acgnx.cc
 (@&!)share.acgnx.net
 (@&!)share.acgnx.se
 (@&!)www.acgnx.se
@@ -79,24 +80,11 @@
 (@%!)apple-dns.net
 (@%!)apple.com
 (@%!)apple.com.cn
-(@%!)apps.mzstatic.com.mwcname.com
-(@%!)cl3.apple.com.mwcname.com
-(@%!)cl5.apple.com.mwcname.com
-(@%!)client-api.itunes.apple.com.mwcname.com
 (@%!)gsa.apple.com.akadns.net
 (@%!)icloud.com
 (@%!)init-p01md.apple.com
-(@%!)init-p01md.apple.com.mwcname.com
 (@%!)init.ess.apple.com
 (@%!)init.itunes.apple.com
-(@%!)init.itunes.apple.com.mwcname.com
-(@%!)iphone-ld.apple.com.mwcname.com
-(@%!)mesu.apple.com.mwcname.com
-(@%!)pd.itunes.apple.com.mwcname.com
-(@%!)play.itunes.apple.com.mwcname.com
-(@%!)se-edge.itunes-apple.com
-(@%!)se-edge.itunes.apple.com.mwcname.com
-(@%!)search.itunes.apple.com.mwcname.com
 (@%!)securemetrics.apple.com.cn
 (@%!)www-cdn.icloud.com.akadns.net
 (@%!)www.apple.com.cn
@@ -135,27 +123,29 @@
 (@&!)assets.fanart.tv
 (@&!)fanart.tv
 
-# FastGit
-(@&!)archive.fastgit.org
-(@&!)assets.fastgit.org
-(@&!)customer-stories-feed.fastgit.org
-(@&!)download.fastgit.org
-(@&!)fastgit.org
-(@&!)hub.fastgit.org
-(@&!)raw.fastgit.org
-
 # GitHub
 (@&!)github.com
 (@&!)githubusercontent.com
 (@&!)desktop.githubusercontent.com
 
+# Blogspot
+(@&@)blogspot.es
+
 # Google
 (@&!)dns.google
 (@&!)google.com
 (@&!)redirector.googlevideo.com
-
-# it-global.cn #8
-(@%!)it-global.cn
+(@&@)google.cc
+(@&@)google.com.iq
+(@&@)google.com.lc
+(@&@)google.com.tn
+(@&@)google.gf
+(@&@)google.io
+(@&@)google.jp
+(@&@)google.ng
+(@&@)google.ph
+(@&@)google.sg
+(@&@)google.uk
 
 # jsDelivr
 (@&!)cdn.jsdelivr.net

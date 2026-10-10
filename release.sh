@@ -20,14 +20,11 @@ function GetData() {
     gfwlist_base64=(
         "https://raw.githubusercontent.com/Loukky/gfwlist-by-loukky/master/gfwlist.txt"
         "https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt"
-        "https://raw.githubusercontent.com/poctopus/gfwlist-plus/master/gfwlist-plus.txt"
     )
     gfwlist_domain=(
         "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt"
-        "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/greatfire.txt"
         "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/proxy-list.txt"
         "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Global/Global_Domain.list"
-        "https://raw.githubusercontent.com/pexcn/gfwlist-extras/master/gfwlist-extras.txt"
     )
     gfwlist2agh_modify=(
         "https://raw.githubusercontent.com/Oexi/GFWList2AGH/refs/heads/main/data/data_modify.txt"
